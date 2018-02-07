@@ -1,4 +1,12 @@
 body
 {
+	background-color: #a9d3d6;
 	font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+
+#heading
+{
+	margin: auto;
+	text-algin: center;
+	width: 100vw;
 }
